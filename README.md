@@ -11,12 +11,12 @@
 
 ## Connect with `this.($user)`
 
-[<img align="left" alt="LinkedIn Icon" width="36px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Twitter Icon" width="36px " src="https://www.iitk.ac.in/dord/images/icons/twitter-icon-no-background-11.png" />][twitter]
-[<img align="left" alt="Drupal Icon" width="36px" src="https://img.icons8.com/color/2x/drupal.png" />][drupal]
+- Use LinkedIn: [<img alt="LinkedIn Icon" width="36px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+- Use Twitter: [<img alt="Twitter Icon" width="36px " src="https://www.iitk.ac.in/dord/images/icons/twitter-icon-no-background-11.png" />][twitter]
+- Use Drupal: [<img alt="Drupal Icon" width="36px" src="https://img.icons8.com/color/2x/drupal.png" />][drupal]
 
 
-## Languages and Tools:
+## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Drupal" width="36px" src="https://img.icons8.com/color/2x/drupal.png" />
