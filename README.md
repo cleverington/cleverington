@@ -9,6 +9,8 @@
 - :sunny: My latest cool project was [this](https://eyesoftexas.utexas.edu/milestones/) timeline.
 - 💬 Ask me about anything it looks like I know. Git, Jekyll, TWIG (for Drupal), TWIG (for WordPress + Timber), Handlebars, PHP, etc.
 
+Something I'm pretty proud of...? Well, its not active at *this* moment, but: https://github.com/drupaldiversity/event-organizer-packet 
+
 ## Connect with `this.($user)`
 
 - Use LinkedIn: [<img alt="LinkedIn Icon" width="36px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
