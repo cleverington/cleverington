@@ -2,11 +2,11 @@
 
 ## `{{ _SESSION ? '<h2>About Me Professionally</h2>'  }}`
 
-- :metal: I'm currently a Senior Developer for University Communication at The University of Texas at Austin. 
+- :metal: I'm currently a Senior Developer for University Communication at [The University of Texas at Austin][utexas]. 
 - 🔭 I’m currently working on getting a bunch of my code into portable format.
 - 🌱 I’m currently learning Vue.js Essentials... even though its mostly review.
 - 👯 I’m looking to collaborate on DD&I, once I have more time.
-- :sunny: My latest cool project was [this][https://eyesoftexas.utexas.edu/milestones/] timeline.
+- :sunny: My latest cool project was [this](https://eyesoftexas.utexas.edu/milestones/) timeline.
 - 💬 Ask me about anything it looks like I know. Git, Jekyll, TWIG (for Drupal), TWIG (for WordPress + Timber), Handlebars, PHP, etc.
 
 ## Connect with `this.($user)`
