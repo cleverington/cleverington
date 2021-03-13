@@ -68,3 +68,5 @@ function newUser(status) {
 [utexas]: https://utexas.edu
 [twitter]: https://twitter.com/c_leverington
 [drupal]: https://www.drupal.org/u/cleverington
+
+[<img alt="The Cake is a Lie" width="36px " src="https://via.placeholder.com/15/ffffff/ffffff?text=+" />][https://www.pinterest.com/pin/378724649892043199/]
