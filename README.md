@@ -70,3 +70,10 @@ function newUser(status) {
 [drupal]: https://www.drupal.org/u/cleverington
 
 [<img alt="The Cake is a Lie" width="36px " src="https://via.placeholder.com/15/ffffff/ffffff?text=+" />](https://www.pinterest.com/pin/378724649892043199/)
+
+## Portfolio TODO List
+- @todo Fork 11ty codebase for springfest.utex (as private) and add people.
+- @todo Add links to various works.
+- @todo Download presentations given at UT (including links) and add.
+- @todo Create 'Public Engagement' section with various talks, DrupalCamp appearances, etc.
+- @todo See if `gh-pages` supports 11ty and fork/rebuild the comm-awards codebase using the rando color theme I generated online.
