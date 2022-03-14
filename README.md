@@ -2,7 +2,9 @@
 
 ## `{{ _SESSION ? '<h2>About Me Professionally</h2>'  }}`
 
-- :metal: I'm currently a Senior Developer for University Communication at [The University of Texas at Austin][utexas]. 
+- 🏳️‍🌈My pronouns are he/they.
+- 😸 I'm currently a Senior WordPress Developer at (Taoti Creative)[https://taoti.com/] (but, honestly, I do a lot of Drupal there, too).
+- :metal: I'm formerly a Senior Developer for University Communication at [The University of Texas at Austin][utexas]. 
 - 🔭 I’m currently working on getting a bunch of my code into portable format.
 - 🌱 I’m currently learning Vue.js Essentials... even though its mostly review.
 - 👯 I’m looking to collaborate on DD&I, once I have more time.
@@ -38,8 +40,6 @@ Something I'm pretty proud of...? Well, its not active at *this* moment, but: ht
 And oh. So. Many. More.
 
 ## `console.log(newUser(userStatus))`
-
-- 😄 Pronouns: Technically `(he/him)`, but not fully. Keep in mind, pronouns are what people *prefer* to be known as.
 - ⚡ Fun fact: I used to do Kendo daily with a group of friends. I was *uncommonly* **good** at it.
 
 ``` javascript
@@ -74,6 +74,5 @@ function newUser(status) {
 ## Portfolio TODO List
 - @todo Fork 11ty codebase for springfest.utex (as private) and add people.
 - @todo Add links to various works.
-- @todo Download presentations given at UT (including links) and add.
 - @todo Create 'Public Engagement' section with various talks, DrupalCamp appearances, etc.
 - @todo See if `gh-pages` supports 11ty and fork/rebuild the comm-awards codebase using the rando color theme I generated online.
