@@ -3,12 +3,13 @@
 ## `{{ _SESSION ? '<h2>About Me Professionally</h2>'  }}`
 
 - 🏳️‍🌈My pronouns are he/they.
-- 😸 I'm currently a Senior WordPress Developer at (Taoti Creative)[https://taoti.com/] (but, honestly, I do a lot of Drupal there, too).
+- 😸 I'm currently a Senior WordPress Developer at [Taoti Creative](https://taoti.com/) (but, honestly, I do a lot of Drupal there, too).
 - :metal: I'm formerly a Senior Developer for University Communication at [The University of Texas at Austin][utexas]. 
 - 🔭 I’m currently working on getting a bunch of my code into portable format.
 - 🌱 I’m currently learning Vue.js Essentials... even though its mostly review.
 - 👯 I’m looking to collaborate on DD&I, once I have more time.
 - :sunny: My latest cool project was [this](https://eyesoftexas.utexas.edu/milestones/) timeline.
+- :happy: Currently building out both a Drupal 9 site **and** a WordPress site at the same time. Good times.
 - 💬 Ask me about anything it looks like I know. Git, Jekyll, TWIG (for Drupal), TWIG (for WordPress + Timber), Handlebars, PHP, etc.
 
 Something I'm pretty proud of...? Well, its not active at *this* moment, but: https://github.com/drupaldiversity/event-organizer-packet 
