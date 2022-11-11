@@ -17,10 +17,10 @@ Something I'm pretty proud of...? Well, its not active at *this* moment, but: ht
 
 ## Connect with `this.($user)`
 
-- Use LinkedIn: [<img alt="LinkedIn Icon" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />][linkedin]
-- Use Mastadon: [<img alt="Mastadon Icon" width="36px " src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/800px-Mastodon_logotype_%28simple%29_new_hue.svg.png" />][mastadon]
-- Use Drupal: [<img alt="Drupal Icon" width="36px" src="https://img.icons8.com/color/2x/drupal.png" />][drupal]
-- Maybe Don't Use Twitter: [<img alt="Twitter Icon" width="36px " src="https://www.iitk.ac.in/dord/images/icons/twitter-icon-no-background-11.png" />][twitter]
+- **Use LinkedIn**: [<img alt="LinkedIn Icon" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" /> : https://www.linkedin.com/in/charles-leverington-29144916/][linkedin]
+- **Use Mastadon**: <a rel="me" href="https://mastodon.social/@cleverington"><img alt="Mastadon Icon" width="36px " src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/800px-Mastodon_logotype_%28simple%29_new_hue.svg.png" /> : https://mastodon.social/@cleverington</a>
+- **Use Drupal**: [<img alt="Drupal Icon" width="36px" src="https://img.icons8.com/color/2x/drupal.png" /> : https://www.drupal.org/u/cleverington][drupal]
+- **Maybe Don't Use Twitter**: [<img alt="Twitter Icon" width="36px " src="https://www.iitk.ac.in/dord/images/icons/twitter-icon-no-background-11.png" /> : https://twitter.com/c_leverington][twitter]
 
 
 ## Languages and Tools
