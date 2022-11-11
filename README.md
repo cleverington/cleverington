@@ -8,17 +8,19 @@
 - 🔭 I’m currently working on getting a bunch of my code into portable format.
 - 🌱 I’m currently learning Vue.js Essentials... even though its mostly review.
 - 👯 I’m looking to collaborate on DD&I, once I have more time.
-- :sunny: My latest cool project was [this](https://eyesoftexas.utexas.edu/milestones/) timeline.
+- :sunny: One of my cool project was [this](https://eyesoftexas.utexas.edu/milestones/) timeline.
+- ⛅ My **latest** cool project is still in progress: A filterable skills showcase built in 11ty (with a Konami Code Easter Egg).
 - :happy: Currently building out both a Drupal 9 site **and** a WordPress site at the same time. Good times.
-- 💬 Ask me about anything it looks like I know. Git, Jekyll, TWIG (for Drupal), TWIG (for WordPress + Timber), Handlebars, PHP, etc.
+- 💬 Ask me about anything it looks like I know. Git, Jekyll, TWIG (for Drupal), TWIG (for WordPress + Timber), Handlebars, PHP, 11ty, etc.
 
 Something I'm pretty proud of...? Well, its not active at *this* moment, but: https://github.com/drupaldiversity/event-organizer-packet 
 
 ## Connect with `this.($user)`
 
-- Use LinkedIn: [<img alt="LinkedIn Icon" width="36px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-- Use Twitter: [<img alt="Twitter Icon" width="36px " src="https://www.iitk.ac.in/dord/images/icons/twitter-icon-no-background-11.png" />][twitter]
+- Use LinkedIn: [<img alt="LinkedIn Icon" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />][linkedin]
+- Use Mastadon: [<img alt="Mastadon Icon" width="36px " src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/800px-Mastodon_logotype_%28simple%29_new_hue.svg.png" />][mastadon]
 - Use Drupal: [<img alt="Drupal Icon" width="36px" src="https://img.icons8.com/color/2x/drupal.png" />][drupal]
+- Maybe Don't Use Twitter: [<img alt="Twitter Icon" width="36px " src="https://www.iitk.ac.in/dord/images/icons/twitter-icon-no-background-11.png" />][twitter]
 
 
 ## Languages and Tools
@@ -69,11 +71,10 @@ function newUser(status) {
 [utexas]: https://utexas.edu
 [twitter]: https://twitter.com/c_leverington
 [drupal]: https://www.drupal.org/u/cleverington
+<a rel="me" href="https://mastodon.social/@cleverington">mastodon</a>: https://mastodon.social/@cleverington
 
 [<img alt="The Cake is a Lie" width="36px " src="https://via.placeholder.com/15/ffffff/ffffff?text=+" />](https://www.pinterest.com/pin/378724649892043199/)
 
 ## Portfolio TODO List
-- @todo Fork 11ty codebase for springfest.utex (as private) and add people.
 - @todo Add links to various works.
 - @todo Create 'Public Engagement' section with various talks, DrupalCamp appearances, etc.
-- @todo See if `gh-pages` supports 11ty and fork/rebuild the comm-awards codebase using the rando color theme I generated online.
