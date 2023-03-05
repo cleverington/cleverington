@@ -6,12 +6,12 @@
 - 😸 I'm currently a Senior WordPress Developer at [Taoti Creative](https://taoti.com/) (but, honestly, I do a lot of Drupal there, too).
 - :metal: I'm formerly a Senior Developer for University Communication at [The University of Texas at Austin][utexas]. 
 - 🔭 I’m currently working on getting a bunch of my code into portable format.
-- 🌱 I’m currently learning Vue.js Essentials... even though its mostly review.
+- 🌱 I’m currently learning AWS Essentials... even though its mostly review because of object permanence and words-being-words.
 - 👯 I’m looking to collaborate on DD&I, once I have more time.
-- :sunny: One of my cool project was [this](https://eyesoftexas.utexas.edu/milestones/) timeline.
-- ⛅ My **latest** cool project is still in progress: A filterable skills showcase built in 11ty (with a Konami Code Easter Egg).
-- :happy: Currently building out both a Drupal 9 site **and** a WordPress site at the same time. Good times.
-- 💬 Ask me about anything it looks like I know. Git, Jekyll, TWIG (for Drupal), TWIG (for WordPress + Timber), Handlebars, PHP, 11ty, etc.
+- :sunny: One of my cool projects was a ground-up Salesforce REST API integration.
+- ⛅ My **latest** cool project is still in progress: A filterable skills showcase built in 11ty (with a Konami Code Easter Egg).  (Okay, so I MIGHT just be dropping that 11ty build in favor of a fully built-out [Obsidian.md](Obsidian.md) based solution instead....)
+- :happy: Currently building out both a Drupal 10 site **and** a WordPress site at the same time. Good times.
+- 💬 Ask me about anything it looks like I know. DevOps, Git, Jekyll, Obsidian.md TWIG (for Drupal), TWIG (for WordPress + Timber), Handlebars, PHP, 11ty, etc.
 
 Something I'm pretty proud of...? Well, its not active at *this* moment, but: https://github.com/drupaldiversity/event-organizer-packet 
 
